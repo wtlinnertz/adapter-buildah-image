@@ -13,7 +13,6 @@ from the inputs.config but does not impose them.
 
 from __future__ import annotations
 
-import json
 import re
 import subprocess
 import tempfile
